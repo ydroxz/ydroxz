@@ -1,6 +1,6 @@
 <p align="center">
 <img src="">
-<br><h1 align="left">:zap: <b>|</b> TiaGoiNsaNy:</h1>
+<br><h1 align="left">:zap: <b>|</b> yDroxz:</h1>
 <h3 align="left">:gem: Programador e Designer :gem:</h3>
 <ul>
     <li>Meu nome real é Marlon Junior. :boy:</li>
@@ -11,9 +11,9 @@
 <a href="https://discord.gg/syBGTmcJJq"><img src="https://img.shields.io/discord/799477005627555890?color=7289da&logo=discord&logoColor=white" alt="Discord server" /></a> 
 <a href="https://www.patreon.com/blackxsz_"><img src="https://img.shields.io/badge/donate-patreon-F96854.svg" alt="Patreon" /></a>  
 <a href="https://twitter.com/blackxsz_"><img src="https://shields.io/twitter/follow/blackxsz_?label=Follow" alt="ydroxz" /></a>
-<a href="https://discord.com/users/568182075929395210"><img src="https://img.shields.io/badge/-@blackxsz_%239903-4169E1?style=flat&labelColor=7289da&logo=discord&logoColor=white" alt="Minha Conta" /></a>
+<a href="https://discord.com/users/817160910871330836"><img src="https://img.shields.io/badge/-@blackxsz_%239903-4169E1?style=flat&labelColor=7289da&logo=discord&logoColor=white" alt="Minha Conta" /></a>
 
-![](https://discord.c99.nl/widget/theme-1/568182075929395210.png)
+![](https://discord.c99.nl/widget/theme-1/817160910871330836.png)
 
 <h3 align="left">:computer: <b>|</b> Conexões Atuais:</h3>
 <p align="left">
