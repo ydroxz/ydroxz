@@ -1,5 +1,4 @@
 <p align="center">
-<img src="">
 <br><h1 align="left">:zap: <b>|</b> yDroxz:</h1>
 <h3 align="left">:gem: Programador e Designer :gem:</h3>
 <ul>
