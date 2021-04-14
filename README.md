@@ -17,7 +17,7 @@
 <p align="left">
 <a href="https://twitter.com/blackxsz_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ydroxz" height="30" width="40" /></a>
 <a href="https://instagram.com/blackxsz_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="ydroxz" height="30" width="40" /></a>
-<a <a [! [Discord Bots] (https://top.gg/api/widget/status/817207028169965589.svg)] (https://top.gg/bot/817207028169965589) /></a> 
+<a [! [Discord Bots] (https://top.gg/api/widget/status/817207028169965589.svg)] (https://top.gg/bot/817207028169965589) /></a> 
 <a href="https://discord.gg/nNARQUgSuX" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="https://discord.gg/nNARQUgSuX" height="30" width="40" /></a>
 </p>
 </p>
